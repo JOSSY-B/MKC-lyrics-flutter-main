@@ -1,0 +1,93 @@
+[
+  {
+    "album_id": "a1",
+    "album": "እንዴት ድንቅ አምላክ ነው",
+    "volume": "Album 01",
+    "year": "1971 ዓ.ም",
+    "photo": "a1.png"
+  },
+  {
+    "album_id": "b1",
+    "album": "አዳም ሆይ ወዴት ነህ?",
+    "volume": "Album 01",
+    "year": "1979 ዓ.ም",
+    "photo": "album_b.jpeg"
+  },
+  {
+    "album_id": "a2",
+    "album": "አሜን በሉ ስገዱለት",
+    "volume": "Album 02",
+    "year": "1986 ዓ.ም",
+    "photo": "a2.png"
+  },
+  {
+    "album_id": "a3",
+    "album": "አንተ ታላቅ ነህ",
+    "volume": "Album 03",
+    "year": "1987 ዓ.ም",
+    "photo": "a3.png"
+  },
+  {
+    "album_id": "a4",
+    "album": "ጌታ ክበር ለዘለዓለም",
+    "volume": "Album 04",
+    "year": "1989 ዓ.ም",
+    "photo": "a4.png"
+  },
+  {
+    "album_id": "a5",
+    "album": "ምሥጋና መልካም ነው",
+    "volume": "Album 05",
+    "year": "1991 ዓ.ም",
+    "photo": "a5.png"
+  },
+  {
+    "album_id": "a6",
+    "album": "ኦ ግሩም ኃይል ነው",
+    "volume": "Album 06",
+    "year": "1994 ዓ.ም",
+    "photo": "a6.png"
+  },
+  {
+    "album_id": "a7",
+    "album": "የታመንኩትን አውቃለሁ",
+    "volume": "Album 07",
+    "year": "1997 ዓ.ም",
+    "photo": "a7.png"
+  },
+  {
+    "album_id": "a8",
+    "album": "አቤንኤዘር",
+    "volume": "Album 08",
+    "year": "2016 ዓ.ም",
+    "photo": "a8.png"
+  },
+  {
+    "album_id": "v1",
+    "album": "እንዴት ድንቅ አምላክ ነው",
+    "volume": "VCD 01",
+    "year": "2000 ዓ.ም",
+    "photo": "v1.png"
+  },
+  {
+    "album_id": "v2",
+    "album": "ጌታ እወነተኛ ነው",
+    "volume": "VCD 02",
+    "year": "2005 ዓ.ም",
+    "photo": "v2.png"
+  },
+  {
+    "album_id": "v3",
+    "album": "ክብሩ ላንተ",
+    "volume": "VCD 03",
+    "year": "2006 ዓ.ም",
+    "photo": "v3.png"
+  },
+  {
+    "album_id": "d4",
+    "album": "ቅዱስ ነው እግዚአብሔር",
+    "volume": "DVD 04",
+    "year": "2010 ዓ.ም",
+    "photo": "v4.png"
+  }
+]
